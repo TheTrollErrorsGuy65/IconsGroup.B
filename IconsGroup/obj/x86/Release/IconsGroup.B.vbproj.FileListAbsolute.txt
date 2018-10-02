@@ -1,0 +1,9 @@
+C:\Users\Kuba\documents\visual studio 2010\Projects\IconsGroup\IconsGroup.B\bin\Release\IconsGroup.exe
+C:\Users\Kuba\documents\visual studio 2010\Projects\IconsGroup\IconsGroup.B\bin\Release\IconsGroup.pdb
+C:\Users\Kuba\documents\visual studio 2010\Projects\IconsGroup\IconsGroup.B\bin\Release\IconsGroup.xml
+C:\Users\Kuba\documents\visual studio 2010\Projects\IconsGroup\IconsGroup.B\obj\x86\Release\IconsGroup.Form1.resources
+C:\Users\Kuba\documents\visual studio 2010\Projects\IconsGroup\IconsGroup.B\obj\x86\Release\IconsGroup.Resources.resources
+C:\Users\Kuba\documents\visual studio 2010\Projects\IconsGroup\IconsGroup.B\obj\x86\Release\IconsGroup.B.vbproj.GenerateResource.Cache
+C:\Users\Kuba\documents\visual studio 2010\Projects\IconsGroup\IconsGroup.B\obj\x86\Release\IconsGroup.exe
+C:\Users\Kuba\documents\visual studio 2010\Projects\IconsGroup\IconsGroup.B\obj\x86\Release\IconsGroup.xml
+C:\Users\Kuba\documents\visual studio 2010\Projects\IconsGroup\IconsGroup.B\obj\x86\Release\IconsGroup.pdb
